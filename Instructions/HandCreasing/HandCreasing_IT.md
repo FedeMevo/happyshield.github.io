@@ -18,72 +18,51 @@ language: en
 
 ---
 
-## Disclaimer
-Dichiarazione di esclusione di responsabilità
+## Dichiarazione di esclusione di responsabilità
+
 ---
 
-L'Università di Cambridge (UC) e l'Università del Queensland (UQ) non danno alcun tipo di garanzia, espressa o implicita, riguardo al design, caratteristiche, durabilità, uso appropriato o performance di HappyShield, incluse, senza alcuna limitazione, garanzie implicite di commerciabilità e idoneità per uno specifico scopo. L'HappyShield è progettato per minimizzare l'esposizione ai fluidi e agli aerosol, ma l'UC e l'UQ non garantiscono che HappyShield proteggerà gli utenti dall'infezione da COVID-19 o da qualunque altra malattia infettiva. Nulla di questo materiale costituisce prescrizione di tipo medico, e gli utenti dovrebbero chiedere il parere del proprio medico di fiducia riguardo all'adeguatezza di HappyShield per l'uso che ne intendano fare, e se debbano adoperarlo congiuntamente con qualunque altra strategia, sia essa medica o no. Nella misura massima concessa dalla legge, l'UC e l'UQ negano ongi garanzia, termini e condizioni impliciti. L'UC e l'UQ non sono responsabili per qualunque richiesta di risarcimento, rivendicazione, danno o lesione, inclusi, senza alcuna limitazione, danni a proprietà, lesioni fisiche o malattia, morte, danni indiretti, speciali o consequenziali ("the Claim") derivanti dall'utilizzo di HappyShield, e gli utenti di HappyShield scagionano l'UC e l'UQ e i loro funzionari, impiegati, impresari e agenti da tutti i Diritti.
-
-The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
+L'Università di Cambridge (UC) e l'Università del Queensland (UQ) non danno alcun tipo di garanzia, espressa o implicita, riguardo al design, caratteristiche, durabilità, uso appropriato o performance di HappyShield, comprese, senza alcuna limitazione, garanzie implicite di commerciabilità e idoneità per uno specifico scopo. L'HappyShield è progettato per minimizzare l'esposizione ai fluidi e agli aerosol, ma l'UC e l'UQ non garantiscono che HappyShield proteggerà gli utenti dall'infezione da COVID-19 o da qualunque altra malattia infettiva. Nulla di questo materiale costituisce prescrizione di tipo medico, e gli utenti dovrebbero chiedere il parere del proprio medico di fiducia riguardo all'adeguatezza di HappyShield per l'uso che ne intendano fare, e se debbano adoperarlo congiuntamente con qualunque altra strategia, sia essa medica o no. Nella misura massima concessa dalla legge, l'UC e l'UQ negano ogni garanzia, termini e condizioni impliciti. L'UC e l'UQ non sono responsabili per qualunque richiesta di risarcimento, rivendicazione, danno o lesione, inclusi, senza alcuna limitazione, danni a proprietà, lesioni fisiche o malattia, morte, danni indiretti, speciali o consequenziali ("i Reclami") derivanti dall'utilizzo di HappyShield, e gli utenti di HappyShield scagionano l'UC e l'UQ e i loro funzionari, impiegati, impresari e agenti da tutti i Reclami.
 
 ---
 
 --- 
 
-## Tools
-
-Attrezzi
+## Attrezzi
 
 ---
 
-* Forbici o lamette
+* Forbici o lamette da rasoio
 * Penna a sfera
 * Righello
 * Coltello da burro
 * Stampante
 
-* Scissors or razor blade
-* Ballpoint pen
-* Ruler
-* Butter Knife
-* Printer
+---
+
+## Materiali
 
 ---
 
-## Materials
+**Scudo**
 
-Materiali
----
-
-**Shield**
-**Scudo (Shield)**
-
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-* Tape
-
-* Polyethylene terephthalate (PET) spesso di 0.5 mm o foglio d'acetato (almeno)
-* Cinghia elastica lavorato a maglia largo 20 mm (70% poliestere, 30% gomma)
+* Polietilene tereftalato (PET) spesso 0.5 mm o foglio d'acetato
+* Fascia elastica a maglia larga 20 mm (70% poliestere, 30% gomma)
 * Nastro adesivo
 
 ---
 
 ---
 
-# Instructions
-
-Istruzioni
+# Istruzioni
 
 ---
 
 # 1 
-1
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Scarica il tuo modello tracciato. Modelli in formato A4 sono disponibili per scudi di formato A3. Modelli in formato lettera sono disponibili per scudi di formato Tabloid. Se non hai accesso ad una stampante, puoi disegnare il tuo modello usando le minesioni mostrate sul modello.
-
-Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
+Scarica il cartamodello. I cartamodelli in formato A4 sono disponibili per scudi di formato A3. Modelli in formato lettera sono disponibili per scudi di formato Tabloid. Se non hai accesso ad una stampante, puoi disegnare la tua sagoma usando le dimensioni mostrate sul modello.
 
 ---
 
@@ -91,9 +70,7 @@ Download your tracing template. A4-sized templates are available for A3-sized sh
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Posiziona il tuo foglio trasparente sul modello, Marca le posizioni dei buchi della cinghia con la penna o pennarello. Non preoccuparti dell'inchiostro, inquanto può essere rimosso con una pezza imbevuta di alcool.
-
-Place your transparent sheet on the template. Mark the location of the strap holes with your pen or marker. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
+Posiziona il tuo foglio trasparente sul cartamodello, Contrassegna le posizioni dei buchi per la fascia elastica con la penna o un pennarello. Non preoccuparti dell'inchiostro, in quanto può essere rimosso con una pezza imbevuta di alcool. 
 
 ---
 
